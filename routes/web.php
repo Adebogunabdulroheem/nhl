@@ -38,4 +38,8 @@ Route::resource('posts', 'PostsController');
 
 Auth::routes();
 
-Route::get('/dashboard', 'DashboardController@index')->name('index');
+Route::group(['middleware' => ['auth', 'admin']], function () {
+	Route::get('/dashboard', [DashboardController::class, 'index']);
+	Route::get('/dashboard', 'DashboardController@users')->name('users');
+});
+

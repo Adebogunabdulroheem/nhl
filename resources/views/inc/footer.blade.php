@@ -6,11 +6,11 @@
                     <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                         <div class="wrapper_second_about">
                             <div class="wrapper_first_image">
-                                <a href="/"><img src="/images/footer_logo.png" class="img-responsive" alt="logo" /></a>
+                                <a href="/"><img src="/images/nhl-logo.png" class="img-responsive" alt="logo" /></a>
                             </div>
                             <div class="abotus_content">
-                                <p>It is a long established fact that the reader wilcted by the readable cent of a the me page part.</p>
-                                <p>Lorem Ipsum is that it has aor-less normal distrion. </p>
+                                <p>Navy Holdings Limited (NHL) Was Established On 15 June 2012 As A Private Limited Liability Company With The Objecti...</p>
+                                
                             </div>
                             <div class="aboutus_link">
                                 <a href="/about">Read More<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
@@ -20,48 +20,41 @@
                     </div>
                     <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                         <div class="wrapper_second_useful">
-                            <h4>Useful Links</h4>
+                            <h4>Links</h4>
                             <ul>
-                                <li><a href="#"><i class="fa fa-stop-circle"></i>Technical Security Surveys </a>
+                                <li><a href="https://navalbuilding.com/"><i class="fa fa-stop-circle"></i>NBCCL </a>
                                 </li>
-                                <li><a href="#"><i class="fa fa-stop-circle"></i>CCTV System Network </a>
+                                <li><a href="/nhsl"><i class="fa fa-stop-circle"></i>NHSL </a>
                                 </li>
-                                <li><a href="#"><i class="fa fa-stop-circle"></i>Mobile Patrol Management </a>
+                                <li><a href="https://nigerianavymfb.com/"><i class="fa fa-stop-circle"></i>NNMFBL </a>
                                 </li>
-                                <li><a href="#"><i class="fa fa-stop-circle"></i>Security Includ</a>
+                                <li><a href="/nesl"><i class="fa fa-stop-circle"></i>NESL</a>
                                 </li>
-                                <li><a href="#"><i class="fa fa-stop-circle"></i> Access Control Systems</a> </li>
+                                <li><a href="/ncfsl"><i class="fa fa-stop-circle"></i>NCFSL</a> </li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
-                        <div class="wrapper_second_blog">
-                            <h4>latest news</h4>
-                            <div class="blog_wrapper1">
-                                <div class="blog_image">
-                                    <img src="/images/footer_1.png" class="img-responsive" alt="blog-img1_img" />
-                                </div>
-                                <div class="blog_text">
-                                    <h5><a href="index.html#">Lorem Security the men sefty</a></h5>
-                                    <div class="blog_date">June 28, 2018</div>
-                                </div>
-                            </div>
-                            <div class="blog_wrapper2">
-                                <div class="blog_image">
-                                    <img src="/images/footer_2.png" class="img-responsive" alt="blog-img2_img" />
-                                </div>
-                                <div class="blog_text">
-                                    <h5><a href="index.html#">Lorem Security the men sefty</a></h5>
-                                    <div class="blog_date">June 28, 2018</div>
-                                </div>
-                            </div>
+                        <div class="wrapper_second_useful">
+                            <h4>Links</h4>
+                            <ul>
+                                <li><a href="/nnmcsl"><i class="fa fa-stop-circle"></i>NNMCSL </a>
+                                </li>
+                                <li><a href="https://navaldockyardlimited.com/"><i class="fa fa-stop-circle"></i>Navy Dockyard </a>
+                                </li>
+                                <li><a href="/nsl/"><i class="fa fa-stop-circle"></i>Navy Shipyard </a>
+                                </li>
+                                <li><a href="https://adun.edu.ng/"><i class="fa fa-stop-circle"></i>Admiralty University</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
+                    
                     <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                         <div class="wrapper_second_contact">
                             <h4>news letter</h4>
                             <div class="letter_div">
-                                <input type="text" placeholder="your email"><a href="index.html#"><i class="fa fa-location-arrow"></i></a>
+                                <input type="text" placeholder="your email"><a href="/"><i class="fa fa-location-arrow"></i></a>
                             </div>
                             <ul>
                                 <li><i class="fa fa-location-arrow"></i><span>512 - omexcity, California</span>

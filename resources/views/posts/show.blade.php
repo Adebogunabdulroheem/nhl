@@ -17,7 +17,7 @@
 	            <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
 	                <div class="lest_news_box_wrapper">
 	                    <div class="lest_news_img_wrapper">
-	                        <img src="/images/blog_categry_img_1.jpg" alt="blog_img">
+	                        <img src="/storage/cover_images/{{$post->cover_image}}" alt="blog_img">
 	                        <div class="author-thumb">
 	                            <div class="authpor_img">
 	                                <img src="/images/blog_icon.png" class="img-responsive " alt="Image">
@@ -45,6 +45,11 @@
 	                            </div>
 	                            <div class="lest_news_cont_bottom_right sc_right_btm">
 	                                <p><a href="blog_single.html#"><i class="fa fa-comment"></i>456</a></p>
+	                            </div>
+	                        </div>
+	                        <div class="lest_news_cont_bottom sc_blog_btm_div">
+	                            <div class="lest_news_cont_bottom_left sc_left_btm">
+	                                <p><a href="/posts/{{$post->id}}/edit"><i class="fa fa-eye"></i>Edit</a></p>
 	                            </div>
 	                        </div>
 	                    </div>

@@ -58,7 +58,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="logo float-left">
-                                <a href="/" style="vertical-align:middle;"><img src="images/logo_1.png" alt="LOGO"></a>
+                                <a href="/" style="vertical-align:middle;"><img src="/images/logo_1.png" alt="LOGO"></a>
                             </div>
 
                             <form action="index.html#" class="float-right search_div search_response">

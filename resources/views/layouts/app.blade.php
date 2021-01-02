@@ -1,17 +1,5 @@
 <!DOCTYPE html>
-<!--
-Template Name: HawkEye
-Version: 1.0.0
-Author: 
-Website: 
-Purchase:
--->
-<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
-<!--[if !IE]><!-->
 <html lang="en">
-<!--[endif]-->
-
 <head>
     <meta charset="utf-8" />
     <title> @yield('title')</title>

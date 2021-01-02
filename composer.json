@@ -13,6 +13,7 @@
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3.1|^7.0.1",
         "laravel/framework": "^7.29",
+        "laravel/helpers": "^1.4",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^2.4",
         "laravelcollective/html": "^6.2"
@@ -60,6 +61,10 @@
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate --ansi"
+        ],
+        "post-install-cmd": [
+         "php artisan clear-compiled",
+         "chmod -R 777 public/"
         ]
     }
 }

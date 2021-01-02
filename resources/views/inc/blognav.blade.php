@@ -99,7 +99,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="/blog" title="">blog</a>
+                            <li><a href="/posts" title="">blog</a>
                             </li>
                             <li><a href="/contact" title="">Contact us</a>
                             </li>

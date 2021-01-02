@@ -52,9 +52,9 @@ class PostsController extends Controller
         $this->validate($request, [
             'title' => 'required',
             'Body' => 'required',
+            'excerpt' => 'required',
             'cover_image' => 'image|nullable|max:1999'
         ]);
-
         //Handle File Upload
 
         if($request->hasFile('cover_image')){
@@ -77,10 +77,10 @@ class PostsController extends Controller
         $post = new Post;
         $post->title = $request->input('title');
         $post->body = $request->input('Body');
+        $post->excerpt = $request->input('excerpt', 'max:10');
         $post->user_id = auth()->user()->id;
         $post->cover_image = $fileNameToStore;
         $post->save();
-
         return redirect('/posts')->with('success', 'Post Created');
     }
 
@@ -92,8 +92,9 @@ class PostsController extends Controller
      */
     public function show($id)
     {
+        $posts = Post::orderBy('created_at', 'desc')->take(3)->get();
         $post = Post::find($id);
-        return view ('posts.show')->with('post', $post); 
+        return view ('posts.show')->with('post', $post)->with('posts', $posts);
     }
 
     /**

@@ -941,7 +941,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>gffgg
     </div>
     <!-- prs patner slider End -->
     <!-- blog wrapper start-->
@@ -956,10 +956,11 @@
                         <p class="sc_bottompadder40">Packages and web page editors now use Lorem Ipsum as their default model many web sites still in their.</p>
                     </div>
                 </div>
+               @foreach($posts as $post)
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="lest_news_box_wrapper">
                         <div class="lest_news_img_wrapper">
-                            <img src="images/port_1.jpg" alt="blog_img">
+                            <img src="/storage/cover_images/{{$post->cover_image}}" alt="blog_img">
                             <div class="author-thumb">
                                 <div class="authpor_img">
                                     <img src="images/blog_icon.png" class="img-responsive " alt="Image">
@@ -976,9 +977,9 @@
                             </div>
                         </div>
                         <div class="lest_news_cont_wrapper">
-                            <h5><a href="index.html#">We Hard Security your sefty.</a></h5>
-                            <p>It is a long established fact that a reader will be distracted by thee reale content of a page when looking at its layout. The point of usingc Lorem Ipsum is that it has a more-or-less normal</p>
-                            <h4><a href="index.html#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
+                            <h5><a href="index.html#"> {{ $post->title }}</a></h5>
+                            <p>{{ str_limit($post->excerpt, 300) }}</p>
+                            <h4><a href="/posts/{{$post->id}}">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                         <!-- <div class="lest_news_cont_bottom">
                             <div class="lest_news_cont_bottom_left">
@@ -993,50 +994,14 @@
                         </div> -->
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="lest_news_box_wrapper">
-                        <div class="lest_news_img_wrapper">
-                            <img src="images/port_1.jpg" alt="blog_img">
-                            <div class="author-thumb">
-                                <div class="authpor_img">
-                                    <img src="images/blog_icon.png" class="img-responsive " alt="Image">
-                                </div>
-                                <div class="author_text">
-                                    <h1><a href="index.html#">by- admin</a></h1>
-                                </div>
-                            </div>
-                            <div class="lest_news_date_wrapper">
-                                <ul>
-                                    <li>15</li>
-                                    <li>feb</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="lest_news_cont_wrapper">
-                            <h5><a href="index.html#">We Hard Security your sefty.</a></h5>
-                            <p>It is a long established fact that a reader will be distracted by thee reale content of a page when looking at its layout. The point of usingc Lorem Ipsum is that it has a more-or-less normal</p>
-                            <h4><a href="index.html#">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
-                        </div>
-                        <!-- <div class="lest_news_cont_bottom">
-                            <div class="lest_news_cont_bottom_left">
-                                <p><a href="index.html#"><i class="fa fa-eye"></i>20,134</a></p>
-                            </div>
-                            <div class="lest_news_cont_bottom_center">
-                                <p><a href="index.html#"><i class="fa fa-heart"></i>2,564</a></p>
-                            </div>
-                            <div class="lest_news_cont_bottom_right">
-                                <p><a href="index.html#"><i class="fa fa-comment"></i>456</a></p>
-                            </div>
-                        </div> -->
-                    </div>
-                </div>
+                @endforeach
             </div>
         </div>
     </div>
     <!-- blog wrapper end-->
     <!-- Tweet Feed Wrapper Start -->
 
-<div class="tweet_wrapper">
+<!-- <div class="tweet_wrapper">
 	<div class="container">
 		<div class="row">
 			<div id="myCarousel" class="vertical-slider carousel vertical slide col-md-12" data-ride="carousel">
@@ -1046,7 +1011,7 @@
 					</div>
 				</div>
 				<br>
-				<!-- Carousel items -->
+				<!-- Carousel items ->
 				<div class="carousel-inner">
 					<div class="item">
 						<div class="row">
@@ -1093,7 +1058,7 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
     <!-- Tweet Feed Wrapper End -->
  @endsection
    

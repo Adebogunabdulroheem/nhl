@@ -17,6 +17,10 @@
         {{Form::label('title', 'Title ')}}
         {{Form::text('title', '', ['class' => 'form-control', 'placeholder' => 'Title'])}}
     </div>
+     <div class="form-group">
+        {{Form::label('excerpt', 'Discription ')}}
+        {{Form::textarea('excerpt', '', ['class' => 'form-control', 'id' => 'article-ckeditor', 'placeholder' => 'Description'])}}
+    </div>
     <div class="form-group">
         {{Form::label('Body', 'Body ')}}
         {{Form::textarea('Body', '', ['class' => 'form-control', 'id' => 'article-ckeditor', 'placeholder' => 'Description'])}}

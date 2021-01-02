@@ -41,6 +41,8 @@
 
     @include('inc.blognav')
 
+    @include('inc.messages')
+
     @yield('content')
     
     @include('inc.footer')

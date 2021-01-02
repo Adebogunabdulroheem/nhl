@@ -37,9 +37,21 @@
       <div class="sidebar-wrapper" id="sidebar-wrapper">
         <ul class="nav">
           <li>
-            <a href="./dashboard">
+            <a href="/dashboard">
               <i class="now-ui-icons design_app"></i>
               <p>Dashboard</p>
+            </a>
+          </li>
+          <li>
+            <a href="/users">
+              <i class="now-ui-icons design_app"></i>
+              <p>User</p>
+            </a>
+          </li>
+          <li>
+            <a href="/users">
+              <i class="now-ui-icons design_app"></i>
+              <p>User</p>
             </a>
           </li>
         </ul>

@@ -46,7 +46,7 @@
                                 <br> Protaction</div>
 
                             <!-- LAYER NR. 9 -->
-                            <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-9" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','320']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal;">Our portfolio includes some of the most prominent clients.
+                            <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-9" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','320']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal; color: white;">Our portfolio includes some of the most prominent clients.
                                 <br/> You can be a part now! </div>
 
                             <!-- LAYER NR. 10 -->
@@ -56,7 +56,7 @@
                         <!-- SLIDE  -->
                         <li data-index="rs-2940" data-transition="slidevertical" data-slotamount="1" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="1500" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Easy to Use" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="images/main_slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                            <img src="images/hotel.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
 
                             <!-- LAYER NR. 2 -->
@@ -67,7 +67,7 @@
                                 <br> Protaction</div>
 
                             <!-- LAYER NR. 9 -->
-                            <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-14" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','340']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal;">Our portfolio includes some of the most prominent clients.
+                            <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-14" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','340']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal;color: white;">Our portfolio includes some of the most prominent clients.
                                 <br/> You can be a part now! </div>
 
                             <!-- LAYER NR. 10 -->
@@ -120,7 +120,7 @@
 	<div class="row">
 	 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="sc_srv_img_wrapper">
-                        <img src="images/service_sng.jpg" alt="img" class="img-responsive">
+                        <img src="images/hotel.jpg" alt="img" class="img-responsive">
                      </div>
               </div>
 			   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -233,7 +233,7 @@
                 <!--end of /.col-sm-6-->
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 accordionTwo accordionfour">
                    <div class="abt_img">
-                       <img src="images/abt_img.jpg" alt="img" class="img-responsive">
+                       <img src="images/holtel.jpg" alt="img" class="img-responsive">
                    </div>
                 </div>
                 <!-- /.col-md-6 -->

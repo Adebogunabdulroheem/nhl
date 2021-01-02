@@ -28,17 +28,17 @@
                         <div class="owl-carousel owl-theme">
                             <div class="item">
                                 <div class="abt_img">
-                                    <img src="images/abt_slider.jpg" alt="img" class="img-responsive">
+                                    <img src="images/navy.jpg" alt="img" class="img-responsive">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="abt_img">
-                                    <img src="images/abt_slider.jpg" alt="img" class="img-responsive">
+                                    <img src="images/nhl.jpeg" alt="img" class="img-responsive">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="abt_img">
-                                    <img src="images/abt_slider.jpg" alt="img" class="img-responsive">
+                                    <img src="images/holtel.jpg" alt="img" class="img-responsive">
                                 </div>
                             </div>
                         </div>

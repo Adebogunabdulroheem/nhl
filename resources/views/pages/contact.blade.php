@@ -47,7 +47,7 @@
                     <div class="cmnt_area_div_mn sc_toppadder80 sc_bottompadder80">
                         <div class="cmnt_area sc_bottompadder50">
                             <div class="abt_heading_wrapper">
-                                <h1 class="med_bottompadder20">leave a comment</h1>
+                                <h1 class="med_bottompadder20">leave a message</h1>
 
                             </div>
                         </div>
