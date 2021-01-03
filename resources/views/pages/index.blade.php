@@ -941,7 +941,7 @@
                     </div>
                 </div>
             </div>
-        </div>gffgg
+        </div>
     </div>
     <!-- prs patner slider End -->
     <!-- blog wrapper start-->
