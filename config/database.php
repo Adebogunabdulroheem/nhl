@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 
-$DATABASE_URL=parse_url(url)
+$DATABASE_URL=parse_url(url);
 
 return [
 
