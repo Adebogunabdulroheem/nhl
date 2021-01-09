@@ -64,10 +64,14 @@
         ],
         "post-install-cmd": [
          "php artisan clear-compiled",
+<<<<<<< HEAD
          "chmod -R 777 public/"
         ],
         "post-install-cmd": [
             "ln -sr storage/app/public public/storage"
+=======
+         "chmod -R 775 public/"
+>>>>>>> 3086af87e8ac8e2201e4c5092e25baabd7a4db39
         ]
     }
 }
