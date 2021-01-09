@@ -1,40 +1,58 @@
-@extends('layouts.dashboard')
+@extends('layouts.pages')
 
 @section('title')
-   Dashboard
+    Dashboard
+@endsection
+
+@section('page')
+    Dashboard
 @endsection
 
 @section('content')
-  <div class="panel-header panel-header-sm">
-     <div class="row">
-         <div class="col-md-12">
-           <div class="card">
-             <div class="card-header">
-               <h4 class="card-title"> Simple Table</h4>
-             </div>
-             <div class="card-body">
-               <div class="table-responsive">
-                 <table class="table">
-                   <thead class=" text-primary">
-                     <th>Name</th>
-                     <th>Country</th>
-                     <th>City</th>
-                     <th class="text-right">Salary</th>
-                   </thead>
-                   <tbody>
-                     <tr>
-                       <td>Dakota Rice</td>
-                       <td>Niger</td>
-                       <td>Oud-Turnhout</td>
-                       <td class="text-right">$36,738</td>
-                     </tr>
-                   </tbody>
-                 </table>
-               </div>
-             </div>
-           </div>
-         </div>
-     </div>
-  </div>
-       
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    @if(session('status'))
+                        <div class="alert alert-success" role="alert">
+                            {{ session('status') }}
+                        </div>
+                    @endif
+                        <div class="alert alert-success" role="alert">
+                            {{ __('You are logged in!') }}
+                        </div>
+                    <div class="panel-body">
+                        <a href="/posts/create" class="btn btn-primary">Create Post</a>
+                        <h3>Your Blog Posts </h3>
+                        @if(count($posts) > 0)
+                            <table class="table table-striped">
+                                <tr>
+                                    <th>Title</th>
+                                    <th></th>
+                                    <th></th>
+                                </tr>
+                                    @foreach ($posts as $post):
+                                        <tr>
+                                            <td>{{$post->title}}</td>
+                                            <td><a href="/posts/{{$post->id}}/edit" class="btn btn-default">Edit</a></td>
+                                            <td>
+                                                {!!Form::open(['action' => ['PostsController@destroy', $post->id], 'method' => 'POST', 'class' => 'pull-right'])!!}
+                                                    {{Form::hidden('_method', 'DELETE')}}
+                                                    {{Form::submit('Delete', ['class' => 'btn btn-danger'])}}
+                                                {!!Form::close()!!}
+                                            </td>
+                                        </tr>
+                                    @endforeach
+                            </table>
+                        @else
+                            <p>You have no posts!</p>
+                        @endif
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection

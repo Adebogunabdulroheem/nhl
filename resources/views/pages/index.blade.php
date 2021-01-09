@@ -10,7 +10,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-2938" data-transition="slidevertical" data-slotamount="1" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="1500" data-thumb="" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/navvy.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="images/nhl-france-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 2 -->
@@ -21,8 +21,7 @@
                             <br> Navy</div>
 
                         <!-- LAYER NR. 9 -->
-                        <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-4" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180', 300','330']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','370','360','300']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal;">Our portfolio includes some of the most prominent clients.
-                            <br/> You can be a part now! </div>
+                        <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-4" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180', 300','330']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','370','360','300']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal; color: white;">We are committed in building our legacy on providing excellent development</div>
 
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption rev-btn rev-btn " id="slide-2938-layer-5" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['150','300','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-2939","delay":""}]' data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1750,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:#ffffff;border:1px solid rgba(255, 255, 255, 0.17);bg:transparent;bw:2px 2px 2px 2px;"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[25,25,25,25]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[25,25,25,25]" style="z-index: 100; white-space: nowrap; font-size: 16px; line-height: 48px; font-weight: 600; color: #ffffff;font-family:Poppins;background-color:#254a93;border:1px solid #254a93;letter-spacing:1px; display:inline-block;">Read More </div>
@@ -31,7 +30,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-2939" data-transition="slidevertical" data-slotamount="1" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="1500" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Examples" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/main_slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="images/gmd-france-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 2 -->
@@ -42,8 +41,7 @@
                             <br> Navy</div>
 
                         <!-- LAYER NR. 9 -->
-                        <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-9" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','320']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal;">Our portfolio includes some of the most prominent clients.
-                            <br/> You can be a part now! </div>
+                        <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-9" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','320']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal; color: white;">We are committed in building our legacy on providing excellent development</div>
 
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption rev-btn rev-btn " id="slide-2938-layer-10" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['150','270','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-2939","delay":""}]' data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1750,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:#ffffff;border:1px solid rgba(255, 255, 255, 0.17);bg:transparent;bw:2px 2px 2px 2px;"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[25,25,25,25]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[25,25,25,25]" style="z-index: 100; white-space: nowrap; font-size: 16px; line-height: 48px; font-weight: 600; color: #ffffff;font-family:Poppins;background-color:#254a93;border:1px solid #254a93;letter-spacing:1px; display:inline-block;">Read More </div>
@@ -52,7 +50,7 @@
                     <!-- SLIDE  -->
                     <li data-index="rs-2940" data-transition="slidevertical" data-slotamount="1" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="1500" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Easy to Use" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="images/main_slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="images/nhll-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 2 -->
@@ -63,8 +61,7 @@
                             <br> Navy</div>
 
                         <!-- LAYER NR. 9 -->
-                        <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-14" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','340']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal;">Our portfolio includes some of the most prominent clients.
-                            <br/> You can be a part now! </div>
+                        <div class="tp-caption WebProduct-Content   tp-resizeme" id="slide-2938-layer-14" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['60','180','300','340']" data-fontsize="['16','16','16','16']" data-lineheight="['24','24','24','22']" data-width="['448','356','334','277']" data-height="['none','none','76','68']" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 448px; max-width: 448px; font-family:Poppins; white-space: normal; color: #fff">We are committed in building our legacy on providing excellent development</div>
 
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption rev-btn rev-btn " id="slide-2938-layer-15" data-x="['left','left','center','center']" data-hoffset="['105','90','0','0']" data-y="['middle','middle','top','top']" data-voffset="['150','270','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-2939","delay":""}]' data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1750,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:#ffffff;border:1px solid rgba(255, 255, 255, 0.17);bg:transparent;bw:2px 2px 2px 2px;"}]' data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[25,25,25,25]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[25,25,25,25]" style="z-index: 100; white-space: nowrap; font-size: 16px; line-height: 48px; font-weight: 600; color: #ffffff;font-family:Poppins;background-color:#254a93;border:1px solid #254a93;letter-spacing:1px; display:inline-block;">Read More </div>
@@ -136,7 +133,7 @@
                 </div>
                 <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
                     <div class="abt_img">
-                        <img src="images/nhl.jpeg" alt="img" class="img-responsive">
+                        <img src="images/nhl-dockyard.jpg" alt="img" class="img-responsive">
                     </div>
                 </div>
             </div>
@@ -292,7 +289,7 @@
                 <!--end of /.col-sm-6-->
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 accordionTwo accordionfour">
                    <div class="abt_img">
-                       <img src="images/nhl.jpeg" alt="img" class="img-responsive">
+                       <img src="images/nhl-france.jpg" alt="img" class="img-responsive">
                    </div>
                 </div>
                 <!-- /.col-md-6 -->
@@ -635,49 +632,49 @@
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-multiple-users-silhouette"></i>
                                 </div>
-                                <span>nbccl</span>
+                                <span>NBCCL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".ncfsl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-policeman"></i>
                                 </div>
-                                <span>ncfsl</span>
+                                <span>NCFSL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".nesl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-home-lock"></i>
                                 </div>
-                                <span>nesl</span>
+                                <span>NESL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".nhsl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-home-lock"></i>
                                 </div>
-                                <span>nhsl</span>
+                                <span>NHSL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".nmsl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-home-lock"></i>
                                 </div>
-                                <span>nmsl</span>
+                                <span>NMSL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".nnmcsl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-home-lock"></i>
                                 </div>
-                                <span>nnmcsl</span>
+                                <span>NNMCSL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".nnmfbl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-home-lock"></i>
                                 </div>
-                                <span>nnmfbl</span>
+                                <span>NNMFBL</span>
                             </li>
                             <li class="button galery_hover_div" data-filter=".nsl">
                                 <div class="gallery_cont1_img">
                                     <i class="flaticon-home-lock"></i>
                                 </div>
-                                <span>nsl</span>
+                                <span>NSL</span>
                             </li>
                         </ul>
                     </div>
@@ -689,7 +686,7 @@
                                         <a href="images/port_1.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_1.jpg" alt="" />
                                             <div class="tab_img_overlay">
                                                 <span><i class="fa fa-search"></i></span>
-                                                <h1>dog <br>security</h1>
+                                                <h1></h1>
                                             </div>
                                         </a>
                                     </div>
@@ -702,7 +699,7 @@
                                     <div class="over">
                                         <a href="images/port_2.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_2.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br>security</h1>
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -716,7 +713,21 @@
                                     <div class="over">
                                         <a href="images/port_3.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_3.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog<br> security</h1>
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                          <div class="grid-item * pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/Abraham-adaji-Ashafa-1.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/Abraham-adaji-Ashafa-1.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -730,7 +741,21 @@
                                     <div class="over">
                                         <a href="images/port_2.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_2.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item * pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/nhl-france.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/nhl-france.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -744,7 +769,21 @@
                                     <div class="over">
                                         <a href="images/port_4jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_4.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item * pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/nhll.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/nhll.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -758,7 +797,21 @@
                                     <div class="over">
                                         <a href="images/port_5.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_5.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item * pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/nhl-dockyard.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/nhl-dockyard.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -772,7 +825,7 @@
                                     <div class="over">
                                         <a href="images/port_7.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_7.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -780,13 +833,41 @@
                                 </figure>
                             </div>
                         </div>
-                        <div class="grid-item ncfsl nnmcsl pd-0">
+                        <div class="grid-item * pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/navy-pop.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/navy-pop.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item pd-0">
                             <div class="gallery-list">
                                 <figure>
                                     <div class="over">
                                         <a href="images/port_9.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_9.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item  pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/Abraham-adaji-Ashafa-2.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/Abraham-adaji-Ashafa-2.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -800,7 +881,49 @@
                                     <div class="over">
                                         <a href="images/port_6.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_6.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item  pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/Abraham-adaji-Ashafa-3.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/Abraham-adaji-Ashafa-3.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                         <div class="grid-item * pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/gmd-france.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/gmd-france.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
+                                                <span><i class="fa fa-search"></i></span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="grid-item  pd-0">
+                            <div class="gallery-list">
+                                <figure>
+                                    <div class="over">
+                                        <a href="images/Abraham-adaji-Ashafa-4.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/Abraham-adaji-Ashafa-4.jpg" alt="" />
+                                            <div class="tab_img_overlay">
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -814,7 +937,7 @@
                                     <div class="over">
                                         <a href="images/port_8.jpg" class="venobox info" data-title="PORTFOLIO TITTLE" data-gall="gall12"><img src="images/port_8.jpg" alt="" />
                                             <div class="tab_img_overlay">
-                                                <h1>dog <br> security</h1>
+                                                <h1></h1>
                                                 <span><i class="fa fa-search"></i></span>
                                             </div>
                                         </a>
@@ -822,6 +945,9 @@
                                 </figure>
                             </div>
                         </div>
+                    </div>
+                    
+                    </div>                        
                     </div>
                 </div>
             </div>
@@ -913,30 +1039,29 @@
                         <div class="owl-carousel owl-theme">
                             <div class="item">
                                 <div class="pn_img_wrapper">
-                                    <img src="images/partner_1.png" alt="patner_img">
+                                    <img src="images/navy-logo.png" alt="patner_img">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="pn_img_wrapper">
-                                    <img src="images/partner_2.png" alt="patner_img">
+                                    <img src="images/army-logo.png" alt="patner_img">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="pn_img_wrapper">
-                                    <img src="images/partner_3.png" alt="patner_img">
+                                    <img src="images/airforce-logo.png" alt="patner_img">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="pn_img_wrapper">
-                                    <img src="images/partner_4.png" alt="patner_img">
+                                    <img src="images/dicon-logo.png" alt="patner_img">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="pn_img_wrapper">
-                                    <img src="images/partner_3.png" alt="patner_img">
+                                    <img src="images/police-logo.png" alt="patner_img">
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>

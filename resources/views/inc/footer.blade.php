@@ -52,14 +52,15 @@
                     
                     <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                         <div class="wrapper_second_contact">
-                            <h4>news letter</h4>
-                            <div class="letter_div">
-                                <input type="text" placeholder="your email"><a href="/"><i class="fa fa-location-arrow"></i></a>
-                            </div>
+                            <h4>Contact</h4>
                             <ul>
-                                <li><i class="fa fa-location-arrow"></i><span>512 - omexcity, California</span>
+                                <li><i class="fa fa-location-arrow"></i><span>1 Aso Clinic Road,
+                                    <br>Off Murtala Muhammed Way, Asokoro Abuja.</span>
                                 </li>
-                                <li><i class="fa fa-phone"></i><span>+65 1800-123-145</span>
+                                <li><i class="fa fa-envelope"></i><span><a href="mailto:info@navyholdings.com">info@navalholdings.com</a></span>
+                                </li>
+                                <li><i class="fa fa-phone"></i><span><a href="tel:+2348185605398">+234-818-560-5398</a>
+                                    <br><a href="tel:+2348185605353" style="">+234-818-560-5353</a></span>
                                 </li>
                             </ul>
                         </div>

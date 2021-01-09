@@ -23,11 +23,11 @@ class PostsController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $request)
     {
         // $posts = Post::all();
         //pagination
-        $posts = Post::orderby('created_at', 'desc')->paginate(5);
+        $posts = Post::orderby('created_at', 'desc')->paginate(3);
         return view('posts.index')->with('posts', $posts);
     }
 

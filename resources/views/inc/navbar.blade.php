@@ -61,8 +61,8 @@
                                 <a href="/" style="vertical-align:middle;"><img src="/images/logo_1.png" alt="LOGO"></a>
                             </div>
 
-                            <form action="index.html#" class="float-right search_div search_response">
-                                <input type="text" placeholder="Search here">
+                            <form action="/search" class="float-right search_div search_response" method="GET">
+                                <input type="text" placeholder="Search here" name="query">
                                 <button><i class="fa fa-search" aria-hidden="true"></i></button>
                             </form>
                         </div>

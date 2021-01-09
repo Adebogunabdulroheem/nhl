@@ -15,10 +15,10 @@
             <div class="row">
                 <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                 @if(count($posts) > 0)
-                    @foreach ($posts as $post)
+                @foreach ($posts as $row)
                     <div class="lest_news_box_wrapper">
                         <div class="lest_news_img_wrapper">
-                            <img src="/storage/cover_images/{{$post->cover_image}}" alt="blog_img">
+                            <img src="/storage/cover_images/{{$row->cover_image}}" alt="blog_img">
                             <div class="author-thumb">
                                 <div class="authpor_img">
                                     <img src="images/blog_icon.png" class="img-responsive " alt="Image">
@@ -29,15 +29,15 @@
                             </div>
                             <div class="lest_news_date_wrapper">
                                 <ul>
-                                    <li>{{ $post->created_at->format('d') }}</li>
-                                    <li>{{ $post->created_at->format('F') }}</li>
+                                    <li>{{ $row->created_at->format('d') }}</li>
+                                    <li>{{ $row->created_at->format('F') }}</li>
                                 </ul>
                             </div>
                         </div>
                         <div class="lest_news_cont_wrapper">
-                            <h5><a href="/posts/{{$post->id}}">{{$post->title}}</a></h5>
-                            <p>{{ str_limit($post->Body, 300) }}</p>
-                            <h4><a href="/posts/{{$post->id}}">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
+                            <h5><a href="/posts/{{$row->id}}">{{$row->title}}</a></h5>
+                            <p>{{ str_limit($row->Body, 300) }}</p>
+                            <h4><a href="/posts/{{$row->id}}">Read More <i class="fa fa-long-arrow-right"></i></a></h4>
                         </div>
                         <!-- <div class="lest_news_cont_bottom">
                             <div class="lest_news_cont_bottom_left sc_left_btm  sc_btn">
@@ -52,7 +52,7 @@
                         </div> -->
                     </div>
                      @endforeach
-                     {{$posts->links()}}
+                     {!! $posts->render() !!}
    
                 @else
                     <p>No posts found</p>
@@ -61,9 +61,9 @@
 
                 <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
                     <div class="sidebar_widget">
-                        <form class="search_form" role="search">
+                        <form class="search_form" action="{{url('/search')}}" role="search" type="get">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Search here">
+                                <input type="text" class="form-control" name="query" placeholder="Search here">
                             </div>
                             <button type="submit"><i class="fa fa-search"></i></button>
                         </form>

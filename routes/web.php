@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PagesController;
+use App\Http\Controllers\DashboardController;
 
 /*
 |--------------------------------------------------------------------------
@@ -34,12 +35,13 @@ Route::get('/nnmcsl', [PagesController::class, 'nnmcsl']);
 
 Route::get('/nsl', [PagesController::class, 'nsl']);
 
+
+
 Route::resource('posts', 'PostsController');
 
 Auth::routes();
 
 Route::group(['middleware' => ['auth', 'admin']], function () {
 	Route::get('/dashboard', [DashboardController::class, 'index']);
-	Route::get('/dashboard', 'DashboardController@users')->name('users');
 });
 

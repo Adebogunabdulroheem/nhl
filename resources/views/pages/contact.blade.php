@@ -21,24 +21,23 @@
                                     <a href="contact_us.html#"><i class="fa fa-map-marker"></i></a>
                                 </div>
                                 <span>location</span>
-                                <p class="sc_bottompadder10">78 - California,US
-                                    <br>125- maxicocity , India </p>
+                                <p class="sc_bottompadder10">1 Aso Clinic Road,
+                                    <br>Off Murtala Muhammed Way, Asokoro Abuja.</p>
                             </li>
                             <li class="galery_hover_div top_serv_box_txt  cnt_box_txts wow  zoomIn animated" data-wow-duration="1.3s" style="visibility: visible; animation-duration: 1.3s; animation-name: zoomIn;">
                                 <div class="gallery_cont1_img cntct_icon">
                                     <a href="contact_us.html#"><i class="fa fa-envelope"></i></a>
                                 </div>
                                 <span>email address</span>
-                                <p class="sc_bottompadder10">mail@example.com
-                                    <br>guard@example.com</p>
+                                <p class="sc_bottompadder10"><a href="mailto:info@navyholdings.com">info@navalholdings.com</a></p>
                             </li>
                             <li class="galery_hover_div top_serv_box_txt cnt_box_txts wow  zoomIn animated" data-wow-duration="1.3s" style="visibility: visible; animation-duration: 1.3s; animation-name: zoomIn;">
                                 <div class="gallery_cont1_img cntct_icon">
                                     <a href="contact_us.html#"><i class="fa fa-phone"></i></a>
                                 </div>
                                 <span>contact</span>
-                                <p class="sc_bottompadder10">+61 5478-125-125
-                                    <br>+91 97586-123-123</p>
+                                <p class="sc_bottompadder10"><a href="tel:+2348185605398">+234-818-560-5398</a>
+                                    <br><a href="tel:+2348185605353" style="">+234-818-560-5353</a></p>
                             </li>
                         </ul>
                     </div>

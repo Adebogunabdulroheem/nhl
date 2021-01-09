@@ -28,17 +28,17 @@
                         <div class="owl-carousel owl-theme">
                             <div class="item">
                                 <div class="abt_img">
-                                    <img src="images/navy.jpg" alt="img" class="img-responsive">
+                                    <img src="images/nhll.jpg" alt="img" class="img-responsive">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="abt_img">
-                                    <img src="images/nhl.jpeg" alt="img" class="img-responsive">
+                                    <img src="images/Abraham-adaji-Ashafa-2.jpg" alt="img" class="img-responsive">
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="abt_img">
-                                    <img src="images/holtel.jpg" alt="img" class="img-responsive">
+                                    <img src="images/nhl-gmd.jpg" alt="img" class="img-responsive">
                                 </div>
                             </div>
                         </div>
@@ -147,34 +147,6 @@
                        <div class="panel panel-default">
                            <div class="panel-heading">
                                <h4 class="panel-title">
-                             <a class="collapsed" data-toggle="collapse" data-parent="#accordionTwoRight" href="index.html#collapseTwoRightThree" aria-expanded="false">
-                             OUR VALUE (Core Values: W - Team)
-                             </a>
-                           </h4>
-                           </div>
-                           <div id="collapseTwoRightThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
-                               <div class="panel-body">
-                                   <div class="text-accordion">
-                                       <p>
-                                           1. Winning
-                                           <br>
-                                           2. Transparent
-                                           <br>
-                                           3. Enthusiastic
-                                           <br>
-                                           4. Adventurous
-                                           <br>
-                                           5. Motivated
-
-                                       </p>
-                                   </div>
-                               </div>
-                           </div>
-                       </div>
-                        <!-- /.panel-default -->
-                       <div class="panel panel-default">
-                           <div class="panel-heading">
-                               <h4 class="panel-title">
                              <a class="collapsed" data-toggle="collapse" data-parent="#accordionTwoRight" href="index.html#collapseTwoRightFive" aria-expanded="false">
                              OUR CONCEPTUAL DEFINITION: U –EARN
                              </a>
@@ -235,14 +207,14 @@
                <!--end of /.col-sm-6-->
                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 accordionTwo accordionfour">
                    <div class="abt_heading_wrapper choose_line">
-                       <h1 class="sc_bottompadder20">awesome skills  </h1>
+                       <h1 class="sc_bottompadder20">OUR VALUE</h1>
                    </div>
 
                    <div class="progress-wrapper progressFive sc_toppadder50">
 
                        <div class="progress-item">
-                           <span class="progress-title">best cctv's</span>
-                           <span class="progress-percent pull-right"> 75%</span>
+                           <span class="progress-title">Transparent</span>
+                           <span class="progress-percent pull-right"> 99%</span>
                            <div class="progress">
                                <div class="progress-bar progress-bar-dealy" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
 
@@ -255,8 +227,8 @@
                        <!-- /.progress-item -->
 
                        <div class="progress-item">
-                           <span class="progress-title">web security</span>
-                           <span class="progress-percent pull-right"> 90%</span>
+                           <span class="progress-title">Winning</span>
+                           <span class="progress-percent pull-right"> 99.9%</span>
                            <div class="progress">
                                <div class="progress-bar progress-bar-success progress-bar-dealy" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
 
@@ -269,8 +241,8 @@
                        <!-- /.progress-item -->
 
                        <div class="progress-item">
-                           <span class="progress-title">monitoring </span>
-                           <span class="progress-percent pull-right"> 60%</span>
+                           <span class="progress-title">Enthusiastic </span>
+                           <span class="progress-percent pull-right"> 99.9%</span>
                            <div class="progress">
                                <div class="progress-bar progress-bar-danger progress-bar-dealy" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
 
@@ -283,8 +255,21 @@
                        <!-- /.progress-item -->
 
                        <div class="progress-item">
-                           <span class="progress-title">guard house</span>
-                           <span class="progress-percent pull-right"> 80%</span>
+                           <span class="progress-title">Adventurous</span>
+                           <span class="progress-percent pull-right"> 99%</span>
+                           <div class="progress">
+                               <div class="progress-bar progress-bar-dealy" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+
+                               </div>
+
+                           </div>
+                           <!-- /.progress -->
+
+                       </div>
+
+                       <div class="progress-item">
+                           <span class="progress-title">Motivated</span>
+                           <span class="progress-percent pull-right"> 99.9%</span>
                            <div class="progress">
                                <div class="progress-bar progress-bar-dealy" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
 
